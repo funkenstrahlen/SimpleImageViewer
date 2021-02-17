@@ -19,7 +19,7 @@ public final class ImageViewerController: UIViewController {
         
         modalPresentationStyle = .overFullScreen
         modalTransitionStyle = .crossDissolve
-        modalPresentationCapturesStatusBarAppearance = true
+//        modalPresentationCapturesStatusBarAppearance = true
     }
     
     required public init?(coder aDecoder: NSCoder) {
